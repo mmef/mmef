@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mmef
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on Linux
+- 📫 How to reach me mmefk200@gmail.com
